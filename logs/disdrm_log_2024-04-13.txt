@@ -1,0 +1,8 @@
+2024-04-13 09:15:32 [INFO] Starting Disdrm tasks
+2024-04-13 09:15:32 [INFO] Set console title
+2024-04-13 09:15:32 [INFO] Cleared console
+2024-04-13 09:15:32 [INFO] Checking module paths
+2024-04-13 09:15:32 [INFO] Checking installed pip modules
+2024-04-13 09:15:33 [INFO] Parsed DisRDM config
+2024-04-13 09:15:33 [INFO] Parsed DisRDM config
+2024-04-13 09:15:33 [INFO] Parsed DisRDM config

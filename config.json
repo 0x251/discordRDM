@@ -1,0 +1,9 @@
+{
+    "Disrdm": {
+        "threads": 25,
+        "proxies": false,
+        "Auth-Token": "",
+        "Session-Token": "",
+        "Logging": true
+    }
+}
